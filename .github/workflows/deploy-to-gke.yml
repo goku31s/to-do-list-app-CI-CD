@@ -8,7 +8,7 @@ on:
 env:
   GCP_PROJECT_ID: powerful-bounty-469218-q0
   GAR_LOCATION: us-central1
-  GKE_CLUSTER: three-tier-app-cluster
+  GKE_CLUSTER: cluster-1
   GKE_ZONE: us-central1
   DEPLOYMENT_NAME: webapp-deployment
   IMAGE_NAME: 3-tier-todo-app
